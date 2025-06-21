@@ -1,0 +1,5 @@
+Flask
+tensorflow
+numpy
+Pillow
+gunicorn  # Essential for production deployment
